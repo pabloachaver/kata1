@@ -8,4 +8,12 @@ fgdfgd
 dato = input('Intro dato:  \n')
 print(dato)
 """
+xdftgjh
+fgjh
+dgfj
+hdfg
+jfhgj
+ftgjdfg
+
 """
+print(dato)
