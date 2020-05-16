@@ -7,3 +7,5 @@ fgdfgd
 '''
 dato = input('Intro dato:  \n')
 print(dato)
+"""
+"""
